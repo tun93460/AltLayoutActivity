@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ecran fantaisie</string>
+    <string name="form_name">Nom</string>
+    <string name="form_email">Messagerie électronique</string>
+    <string name="form_extension">Extension</string>
+    <string name="form_department">Département</string>
+    <string name="form_supervisor">Superviseur</string>
+    <string name="form_direct_reports">Rapports directs</string>
+</resources>
